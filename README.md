@@ -6,21 +6,21 @@ Welcome to my GitHub profile! I'm **Aly Sall**, a passionate Fullstack Developer
 
 ### 🚀 About Me  
 - 🔭 **Currently working on**:  
-  Innovative projects using **React**, **Next.js**, **TypeScript**, **Node.js**, and **Django** to deliver exceptional user experiences.  
+  Innovative projects using **React**, **Next.js**, **TypeScript**, **Java**, and **Python** to deliver exceptional user experiences.  
 - 🌱 **Learning & Exploring**:  
   - **Golang** for high-performance web servers and tools.  
   - **C# and .NET** to expand my backend expertise.  
-  - **DevOps practices** for smoother deployments and scalability.  
+  - **Mobile Development ** to expand my knowledge   
 - 🎯 **My Goals**:  
   - Build impactful SaaS products.  
   - Collaborate on projects that make a difference.  
-  - Secure a role as a **Remote Software Engineer** or **Golang Developer**.  
+  - Secure a role as a **Software Engineer**.  
 
 ---
 
 ### 💼 What I Can Offer  
 - Expertise in frontend technologies like **React**, **Next.js**, and **Tailwind CSS**.  
-- Skilled in backend development with **Django**, **Node.js**, and **Express**.  
+- Skilled in backend development with **Django**, **Java**, and **Express**.  
 - Hands-on experience in creating **REST APIs** and **microservices**.  
 - Passion for delivering **clean, maintainable code** with a **user-first approach**.  
 
@@ -42,7 +42,7 @@ I'm always looking to collaborate on:
 ---
 
 ### ⚡ Fun Fact  
-When I'm not coding, I’m probably exploring new technologies, improving my graphic design skills, or watching the latest NBA game.  
+When I'm not coding, I’m probably exploring new technologies, improving my graphic design skills, or watching the latest NBA and Football game, and mangas.  
 
 ---
 
