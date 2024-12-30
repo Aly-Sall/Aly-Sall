@@ -37,7 +37,7 @@ I'm always looking to collaborate on:
 ### 📫 Get in Touch  
 - **Email**: aly.sall@example.com  
 - **LinkedIn**: [linkedin.com/in/aly-sall](https://www.linkedin.com/in/aly-sall)  
-- **Portfolio**: [Coming soon!]  
+- **Portfolio**: https://my-portfolio-aly.vercel.app
 
 ---
 
