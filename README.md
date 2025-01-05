@@ -10,16 +10,18 @@ Welcome to my GitHub profile! I'm **Aly Sall**, a passionate Fullstack Developer
 - 🌱 **Learning & Exploring**:  
   - **Golang** for high-performance web servers and tools.  
   - **C# and .NET** to expand my backend expertise.  
-  - **Mobile Development ** to expand my knowledge   
+  - **Mobile Development with React native and Flutter ** to expand my knowledge   
 - 🎯 **My Goals**:  
-  - Build impactful SaaS products.  
+  - Build impactful SaaS products.
+  - Explore AI
   - Collaborate on projects that make a difference.  
-  - Secure a role as a **Software Engineer**.  
+  - Build mobile apps
 
 ---
 
 ### 💼 What I Can Offer  
-- Expertise in frontend technologies like **React**, **Next.js**, and **Tailwind CSS**.  
+- Expertise in frontend technologies like **React**, **Next.js**, and **Tailwind CSS**.
+- Good experience with Flutter and React-native 
 - Skilled in backend development with **Django**, **Java**, and **Express**.  
 - Hands-on experience in creating **REST APIs** and **microservices**.  
 - Passion for delivering **clean, maintainable code** with a **user-first approach**.  
@@ -30,7 +32,8 @@ Welcome to my GitHub profile! I'm **Aly Sall**, a passionate Fullstack Developer
 I'm always looking to collaborate on:  
 - Open-source projects.  
 - Fullstack development.  
-- Backend optimization and scaling.  
+- Backend optimization and scaling.
+- Mobile development  
 
 ---
 
