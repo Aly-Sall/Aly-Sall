@@ -42,6 +42,8 @@ I'm always looking to collaborate on:
 - **LinkedIn**: [linkedin.com/in/aly-sall](https://www.linkedin.com/in/aly-sall)  
 - **Portfolio**: https://my-portfolio-aly.vercel.app
 
+- Resume :[Resume_pdf](https://github.com/user-attachments/files/18353143/Resume_ENG.pdf)
+
 ---
 
 ### ⚡ Fun Fact  
