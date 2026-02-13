@@ -41,6 +41,7 @@ I'm always looking to collaborate on:
 - **Email**: aly.sall@example.com  
 - **LinkedIn**: [linkedin.com/in/aly-sall](https://www.linkedin.com/in/aly-sall)  
 - **Portfolio**: https://my-portfolio-aly.vercel.app
+- * **Resume:** [Download my Resume (PDF)](./Resume.pdf)
 
 
 ---
